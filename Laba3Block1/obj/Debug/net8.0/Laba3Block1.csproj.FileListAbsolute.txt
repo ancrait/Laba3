@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\bin\Debug\net8.0\Laba3Block1.exe
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\bin\Debug\net8.0\Laba3Block1.deps.json
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\bin\Debug\net8.0\Laba3Block1.runtimeconfig.json
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\bin\Debug\net8.0\Laba3Block1.dll
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\bin\Debug\net8.0\Laba3Block1.pdb
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\obj\Debug\net8.0\Laba3Block1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\obj\Debug\net8.0\Laba3Block1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\obj\Debug\net8.0\Laba3Block1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\obj\Debug\net8.0\Laba3Block1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\obj\Debug\net8.0\Laba3Block1.sourcelink.json
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\obj\Debug\net8.0\Laba3Block1.dll
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\obj\Debug\net8.0\refint\Laba3Block1.dll
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\obj\Debug\net8.0\Laba3Block1.pdb
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\obj\Debug\net8.0\Laba3Block1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Sem2Laba3\Laba3Block1\obj\Debug\net8.0\ref\Laba3Block1.dll

@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\Sem2Laba3\Sem2Laba3\obj\Debug\net8.0\refint\Sem2Laba
 C:\Users\Admin\source\repos\Sem2Laba3\Sem2Laba3\obj\Debug\net8.0\Sem2Laba3.pdb
 C:\Users\Admin\source\repos\Sem2Laba3\Sem2Laba3\obj\Debug\net8.0\Sem2Laba3.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Sem2Laba3\Sem2Laba3\obj\Debug\net8.0\ref\Sem2Laba3.dll
+C:\Users\Admin\source\repos\Sem2Laba3\Sem2Laba3\obj\Debug\net8.0\Sem2Laba3.sourcelink.json
